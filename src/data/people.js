@@ -96,5 +96,14 @@ module.exports = [{
         social_media: 'https://www.linkedin.com/in/muhrizqi/',
         tech_stack: ['Python', 'Odoo', 'PostgreSQL'],
         hired: false
+    },
+    {
+        name: 'Rizki Ramadhan Fratama',
+        status: 'Fulltime',
+        role: 'Fullstack Web Developer',
+        location: 'Semarang',
+        social_media: 'https://www.linkedin.com/in/rizki-ramadhan-fratama-733126176/',
+        tech_stack: ['vuejs', 'laravel','ci','yii2','flask'],
+        hired: false
     }
 ];
